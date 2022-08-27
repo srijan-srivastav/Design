@@ -1,0 +1,4 @@
+/target/classes/p1_snl/service/*.class
+*.class
+/target/classes
+.idea
